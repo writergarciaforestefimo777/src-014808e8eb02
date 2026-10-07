@@ -1,0 +1,19 @@
+{
+  "name": "SLOTSDJ Casino en ligne France | +$650 + 330 FS",
+  "short_name": "SLOTSDJ",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#16a34a",
+  "background_color": "#f4fff6",
+  "display": "standalone"
+}
